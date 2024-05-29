@@ -9,7 +9,7 @@
 
 int pwmPin = 6; //PIN 5 IS DAMAGED!
 int ledPin = 13;
-int analogPin = 0;
+int a  nalogPin = 0;
 int val = 0;
 
 unsigned long previousMillis = 0;        // will store last time
